@@ -1,0 +1,11 @@
+[33mcommit 0e81990f5c052f91b84e072b85033a5cb65fddaa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: mohammed-roshan-p <roshanparambadan@gmail.com>
+Date:   Wed Sep 4 16:15:56 2024 +0530
+
+    Initial commit
+
+[33mcommit d63f49b78ac55df8cfe5f5d7cdc07a259f27175d[m
+Author: mohammed-roshan-p <roshanparambadan@gmail.com>
+Date:   Mon Sep 2 21:35:53 2024 +0530
+
+    Initialize project using Create React App
