@@ -8,6 +8,11 @@ A simple calculator built with React. This project demonstrates basic React conc
 - Clear and backspace functionalities
 - Error handling for invalid inputs
 
+## Demo Video
+
+![Screenshot (185)](https://github.com/user-attachments/assets/598c59ac-081c-4b37-9d90-2a3e5cddf10c)
+
+
 ## Installation
 
 1. **Clone the repository:**
