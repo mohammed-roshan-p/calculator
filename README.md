@@ -10,7 +10,9 @@ A simple calculator built with React. This project demonstrates basic React conc
 
 ## Demo Video
 
-![Screenshot (185)](https://github.com/user-attachments/assets/598c59ac-081c-4b37-9d90-2a3e5cddf10c)
+
+https://github.com/user-attachments/assets/4cd779f4-7f0f-4953-92d2-b41d5202cb86
+
 
 
 ## Installation
